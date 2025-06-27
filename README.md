@@ -50,7 +50,7 @@ A PHP and MySQL-based web application for alumni to register, connect, participa
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/alumni-network.git
+   git clone (https://github.com/Jobayer08/Alumni-Network-PSTU)
    cd alumni-network
    
 2.Import the database:
